@@ -1,0 +1,15 @@
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/bin/Debug/net6.0/Inventory.Application.Contract.deps.json
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/bin/Debug/net6.0/Inventory.Application.Contract.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/bin/Debug/net6.0/Inventory.Application.Contract.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/bin/Debug/net6.0/Inventory.Domain.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/bin/Debug/net6.0/Inventory.Domain.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.csproj.AssemblyReference.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.AssemblyInfoInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.AssemblyInfo.cs
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.csproj.CoreCompileInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.csproj.CopyComplete
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/ref/Inventory.Application.Contract.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/Inventory.Application.Contract.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/obj/Debug/net6.0/refint/Inventory.Application.Contract.dll

@@ -1,0 +1,1 @@
+Inventory.Infra.Test.Integration.Inventory.InventoryRepositoryIntegrationTest.Should_Be_Created_Inventory

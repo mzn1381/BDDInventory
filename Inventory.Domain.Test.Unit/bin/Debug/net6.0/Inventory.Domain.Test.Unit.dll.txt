@@ -1,0 +1,2 @@
+Inventory.Domain.Test.Unit.InventoryUnitTest.Invnetory_Should_Be_Created
+Inventory.Domain.Test.Unit.InventoryUnitTest.Invnetory_Properties_Should_Be_Equal_PropertyOn_Biulder

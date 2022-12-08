@@ -1,0 +1,8 @@
+{
+  "Inventory.Application.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mzn1381\/Program\/InventoryBddProject\/Inventory.Application.Contract",
+  "Inventory.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mzn1381\/Program\/InventoryBddProject\/Inventory.Domain",
+  "Inventory.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mzn1381\/Program\/InventoryBddProject\/Inventory.Infra",
+  "Inventory.Infra.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mzn1381\/Program\/InventoryBddProject\/Inventory.Infra.Model",
+  "Inventory.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mzn1381\/Program\/InventoryBddProject\/Inventory.Presentation",
+  "Invnetory.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mzn1381\/Program\/InventoryBddProject\/Invnetory.Application"
+}

@@ -1,0 +1,14 @@
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/bin/Debug/net6.0/Inventory.Domain.deps.json
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/bin/Debug/net6.0/Inventory.Domain.runtimeconfig.json
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/bin/Debug/net6.0/Inventory.Domain.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/bin/Debug/net6.0/Inventory.Domain.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.AssemblyInfoInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.AssemblyInfo.cs
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.csproj.CoreCompileInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/ref/Inventory.Domain.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.genruntimeconfig.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/Inventory.Domain.csproj.AssemblyReference.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/obj/Debug/net6.0/refint/Inventory.Domain.dll

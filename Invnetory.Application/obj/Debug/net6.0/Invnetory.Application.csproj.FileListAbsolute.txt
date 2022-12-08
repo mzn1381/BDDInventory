@@ -1,0 +1,17 @@
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Invnetory.Application.deps.json
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Invnetory.Application.dll
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Invnetory.Application.pdb
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Inventory.Application.Contract.dll
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Inventory.Domain.dll
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Inventory.Application.Contract.pdb
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/bin/Debug/net6.0/Inventory.Domain.pdb
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.csproj.AssemblyReference.cache
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.AssemblyInfoInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.AssemblyInfo.cs
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.csproj.CoreCompileInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.csproj.CopyComplete
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.dll
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/ref/Invnetory.Application.dll
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/Invnetory.Application.pdb
+/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/Debug/net6.0/refint/Invnetory.Application.dll

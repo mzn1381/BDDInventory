@@ -1,0 +1,15 @@
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/bin/Debug/net6.0/Inventory.Infra.Model.deps.json
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/bin/Debug/net6.0/Inventory.Infra.Model.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/bin/Debug/net6.0/Inventory.Infra.Model.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/bin/Debug/net6.0/Inventory.Domain.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/bin/Debug/net6.0/Inventory.Domain.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.csproj.AssemblyReference.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.AssemblyInfoInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.AssemblyInfo.cs
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.csproj.CoreCompileInputs.cache
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.csproj.CopyComplete
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/ref/Inventory.Infra.Model.dll
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/Inventory.Infra.Model.pdb
+/Users/mzn1381/Program/InventoryBddProject/Inventory.Infra.Model/obj/Debug/net6.0/refint/Inventory.Infra.Model.dll

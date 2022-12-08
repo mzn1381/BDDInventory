@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Inventory.Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Inventory.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Inventory.Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventory.Application.Contract.dll": {}
+        }
+      },
+      "Inventory.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Inventory.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventory.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory.Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Inventory.Application.Contract/Inventory.Application.Contract.csproj",
+      "msbuildProject": "../Inventory.Application.Contract/Inventory.Application.Contract.csproj"
+    },
+    "Inventory.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Inventory.Domain/Inventory.Domain.csproj",
+      "msbuildProject": "../Inventory.Domain/Inventory.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Inventory.Application.Contract >= 1.0.0",
+      "Inventory.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mzn1381/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/Invnetory.Application.csproj",
+      "projectName": "Invnetory.Application",
+      "projectPath": "/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/Invnetory.Application.csproj",
+      "packagesPath": "/Users/mzn1381/.nuget/packages/",
+      "outputPath": "/Users/mzn1381/Program/InventoryBddProject/Invnetory.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mzn1381/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/Inventory.Application.Contract.csproj": {
+              "projectPath": "/Users/mzn1381/Program/InventoryBddProject/Inventory.Application.Contract/Inventory.Application.Contract.csproj"
+            },
+            "/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/Inventory.Domain.csproj": {
+              "projectPath": "/Users/mzn1381/Program/InventoryBddProject/Inventory.Domain/Inventory.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+Inventory.Application.Test.Unit.UnitTest1.Test1
+Inventory.Application.Test.Unit.Services.Inventory.ServiceInventoryUnitTest.Should_Create_Inventory

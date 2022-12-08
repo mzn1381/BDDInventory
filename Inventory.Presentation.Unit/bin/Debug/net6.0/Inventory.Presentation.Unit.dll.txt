@@ -1,0 +1,2 @@
+Inventory.Presentation.Unit.InventoryControllerUnitTest.Should_Create_Inventory
+Inventory.Presentation.Unit.UnitTest1.Test1
