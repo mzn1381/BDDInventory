@@ -1,0 +1,1 @@
+Inventory.Test.AccepTance.Features.DefineNewInventoryFeature.CreatedInventory
